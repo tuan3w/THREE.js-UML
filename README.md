@@ -1,4 +1,4 @@
 THREE.js-UML
 ============
 
-THREE.js class
+THREE.js classes UML
